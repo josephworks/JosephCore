@@ -1,0 +1,13 @@
+{
+  "group": "josephcore",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:emerald_block"
+    }
+  ],
+  "result": {
+    "item": "josephcore:emeraldium",
+    "count": 3
+  }
+}

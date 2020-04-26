@@ -1,0 +1,56 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "JCore - Menu",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "JCore - Menu",
+          "x": 256,
+          "y": 78
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "emeraldium.png",
+          "name": "emeraldium.png",
+          "x": 468,
+          "y": 58
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Help",
+          "width": 80,
+          "height": 40,
+          "name": "Help",
+          "x": 257,
+          "y": 102
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Cheats",
+          "width": 120,
+          "height": 40,
+          "name": "Cheats",
+          "x": 257,
+          "y": 146
+        }
+      }
+    ]
+  }
+}

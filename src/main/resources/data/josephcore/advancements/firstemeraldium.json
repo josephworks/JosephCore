@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "josephcore:emeraldium"
+    },
+    "title": {
+      "translate": "advancements.firstemeraldium.title"
+    },
+    "description": {
+      "translate": "advancements.firstemeraldium.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "firstemeraldium": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "josephcore:emeraldium",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 840
+  },
+  "parent": "minecraft:story/root"
+}

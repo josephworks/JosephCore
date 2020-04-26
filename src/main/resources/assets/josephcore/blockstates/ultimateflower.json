@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "josephcore:block/ultimateflower"
+    },
+    "age=1": {
+      "model": "josephcore:block/ultimateflower"
+    },
+    "age=2": {
+      "model": "josephcore:block/ultimateflower"
+    },
+    "age=3": {
+      "model": "josephcore:block/ultimateflower"
+    },
+    "age=4": {
+      "model": "josephcore:block/ultimateflower"
+    },
+    "age=5": {
+      "model": "josephcore:block/ultimateflower"
+    },
+    "age=6": {
+      "model": "josephcore:block/ultimateflower"
+    },
+    "age=7": {
+      "model": "josephcore:block/ultimateflower"
+    },
+    "age=8": {
+      "model": "josephcore:block/ultimateflower"
+    },
+    "age=9": {
+      "model": "josephcore:block/ultimateflower"
+    },
+    "age=10": {
+      "model": "josephcore:block/ultimateflower"
+    },
+    "age=11": {
+      "model": "josephcore:block/ultimateflower"
+    },
+    "age=12": {
+      "model": "josephcore:block/ultimateflower"
+    },
+    "age=13": {
+      "model": "josephcore:block/ultimateflower"
+    },
+    "age=14": {
+      "model": "josephcore:block/ultimateflower"
+    },
+    "age=15": {
+      "model": "josephcore:block/ultimateflower"
+    }
+  }
+}

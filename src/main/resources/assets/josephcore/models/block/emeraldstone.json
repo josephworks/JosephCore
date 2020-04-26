@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "josephcore:blocks/emeraldstone",
+    "up": "josephcore:blocks/emeraldstone",
+    "north": "josephcore:blocks/emeraldstone",
+    "east": "josephcore:blocks/emeraldstone",
+    "south": "josephcore:blocks/emeraldstone",
+    "west": "josephcore:blocks/emeraldstone",
+    "particle": "josephcore:blocks/emeraldstone"
+  }
+}

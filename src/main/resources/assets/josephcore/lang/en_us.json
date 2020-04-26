@@ -1,0 +1,17 @@
+{
+  "item.josephcore.emeraldium": "Emeraldium",
+  "block.josephcore.emeraldiumore": "Emeraldium Ore",
+  "item.josephcore.josephland": "Joseph Land Portal Igniter",
+  "block.josephcore.forgestone": "Forgestone",
+  "itemGroup.tabjosephcore": "Joseph Core",
+  "advancements.firstemeraldium.descr": "Gained your first Emeraldium",
+  "block.josephcore.emeraldstone": "Emeraldstone",
+  "advancements.firstemeraldium.title": "First Emeraldium",
+  "block.josephcore.ultimateflower": "Green Flower",
+  "item.josephcore.emeraldbody": "Emerald Body",
+  "item.josephcore.emeraldlegs": "Emerald Leggings",
+  "block.josephcore.testblock": "Test Block",
+  "item.josephcore.emeraldhelmet": "Emerald Helmet",
+  "key.mcreator.jguikey": "JGUI Key",
+  "item.josephcore.emeraldboots": "Emerald Boots"
+}

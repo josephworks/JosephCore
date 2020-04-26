@@ -1,0 +1,51 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "emerald_helmet",
+    "enableBody": true,
+    "textureBody": "emerald_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "emerald_leggings",
+    "enableBoots": true,
+    "textureBoots": "emerald_boots",
+    "creativeTab": {
+      "value": "CUSTOM:JosephCore"
+    },
+    "armorTextureFile": "customarmor_",
+    "helmetName": "Emerald Helmet",
+    "bodyName": "Emerald Body",
+    "leggingsName": "Emerald Leggings",
+    "bootsName": "Emerald Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 35,
+    "damageValueHelmet": 4,
+    "damageValueBody": 8,
+    "damageValueLeggings": 7,
+    "damageValueBoots": 4,
+    "enchantability": 20,
+    "toughness": 3.0,
+    "equipSound": {
+      "value": "item.armor.equip_chain"
+    },
+    "repairItems": [
+      {
+        "value": "Blocks.EMERALD_BLOCK"
+      }
+    ]
+  }
+}

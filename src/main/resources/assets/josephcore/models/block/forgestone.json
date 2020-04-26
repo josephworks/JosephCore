@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "josephcore:blocks/forgestone",
+    "up": "josephcore:blocks/forgestone",
+    "north": "josephcore:blocks/forgestone",
+    "east": "josephcore:blocks/forgestone",
+    "south": "josephcore:blocks/forgestone",
+    "west": "josephcore:blocks/forgestone",
+    "particle": "josephcore:blocks/forgestone"
+  }
+}

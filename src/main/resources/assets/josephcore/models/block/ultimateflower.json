@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "josephcore:blocks/stage_0",
+    "particle": "josephcore:blocks/stage_0"
+  }
+}

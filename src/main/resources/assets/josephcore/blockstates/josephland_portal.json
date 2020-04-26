@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "josephcore:block/josephland_portal_ew"
+    },
+    "axis=x": {
+      "model": "josephcore:block/josephland_portal_ns"
+    }
+  }
+}

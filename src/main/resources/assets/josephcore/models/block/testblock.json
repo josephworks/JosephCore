@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "josephcore:blocks/warning-icon",
+    "up": "josephcore:blocks/warning-icon",
+    "north": "josephcore:blocks/warning-icon",
+    "east": "josephcore:blocks/warning-icon",
+    "south": "josephcore:blocks/warning-icon",
+    "west": "josephcore:blocks/warning-icon",
+    "particle": "josephcore:blocks/warning-icon"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "emeraldium",
+    "customModelName": "Normal",
+    "name": "Emeraldium",
+    "creativeTab": {
+      "value": "CUSTOM:JosephCore"
+    },
+    "stackSize": 32,
+    "enchantability": 5,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": true,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 6.5,
+    "specialInfo": [
+      "Used for crafting purposes."
+    ],
+    "hasGlow": true
+  }
+}

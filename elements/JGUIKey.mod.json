@@ -1,0 +1,11 @@
+{
+  "_fv": 6,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "J",
+    "keyBindingName": "JGUI Key",
+    "onKeyPressed": {
+      "name": "JGUIKeyOnKeyPressed"
+    }
+  }
+}

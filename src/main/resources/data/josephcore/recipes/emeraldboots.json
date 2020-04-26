@@ -1,0 +1,26 @@
+{
+  "group": "josephcore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "josephcore:emeraldium"
+    },
+    "2": {
+      "item": "josephcore:emeraldium"
+    },
+    "3": {
+      "item": "josephcore:emeraldium"
+    },
+    "5": {
+      "item": "josephcore:emeraldium"
+    }
+  },
+  "result": {
+    "item": "josephcore:emeraldboots",
+    "count": 1
+  }
+}
