@@ -7,5 +7,11 @@ pipeline {
       }
     }
 
+    stage('ProcessMod') {
+      steps {
+        sh 'mv build/libs/modid-1.0.jar build/libs/JosephCore.jar'
+      }
+    }
+
   }
 }
