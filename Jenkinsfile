@@ -13,5 +13,11 @@ pipeline {
       }
     }
 
+    stage('Archive') {
+      steps {
+        archiveArtifacts(artifacts: 'build/libs/*', fingerprint: true)
+      }
+    }
+
   }
 }
